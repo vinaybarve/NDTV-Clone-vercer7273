@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700&display=swap');    
+
+body {
+    margin-left: 0px;
+    background-color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+  .body {
+    width:90%;
+    margin: auto;
+    margin-top:40px;
+    background-color: aliceblue;
+    text-align: center;
+}
+.h2 {
+    margin-top: -100px;
+    margin-left: 30px;
+    text-align: left;
+    color: white;
+    margin-left:20%;
+}
+
+.image {
+    width: 75%;
+    border-radius: 10px;
+}
+
+.fetured {
+    width: 75%;
+    margin:auto;
+    display: grid;
+    grid-template-columns: auto auto auto;
+
+    margin-top: 50px;
+}
+
+.entertainmentFetured {
+    width: 75%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto auto;
+
+
+    margin-top: 50px;
+
+}
+
+.inbox {
+    padding: 0px 10px 10px 0px;
+
+}
+
+.in {
+    border: 1px;
+    box-shadow: 2px 5px rgb(216, 213, 213);
+
+    border-radius: 10px;
+    background-color: white;
+    justify-content: space-round;
+}
+
+.inImage {
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.text {
+    margin-left: 8px;
+    color: rgb(114, 109, 109);
+
+}
+
+.last {
+    display: flex;
+
+    padding: 10px;
+    justify-content: space-between;
+    align-self: flex-end;
+    margin-top: auto;
+    margin-right: auto;
+
+}
+
+
+.last>p {
+    color: rgb(189, 3, 3);
+    font: 700;
+    margin-block-end: 2px;
+
+
+}
+
+.heading {
+    margin-left:100px; 
+    font-size: 42px;
+    text-align: left;
+}
+
+.camera {
+    vertical-align: sub;
+}
+#featured{
+    margin-top:50px;
+}
