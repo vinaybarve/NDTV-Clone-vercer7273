@@ -1,7 +1,6 @@
 # vercer7273
 
 A Individual project that is made during the time span of 5 days.
-<b>Team Members-</b> 
 <ul>
 <li><a href="https://www.linkedin.com/in/vinay-barve-8583a6180/">Vinay</a></li>
 
